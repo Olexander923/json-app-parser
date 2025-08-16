@@ -9,9 +9,11 @@ Java 17, Spring
 cd ~/Desktop/project-maven-master/json-app-parser
 
 Собрать проект
+
 mvn clean package
 
 Запустить приложение
+
 mvn spring-boot:run
 
 ## Техническое задание
