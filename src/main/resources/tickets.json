@@ -1,0 +1,123 @@
+{
+  "tickets": [{
+    "origin": "VVO",
+    "origin_name": "Vladivostok",
+    "destination": "TLV",
+    "destination_name": "Tel Aviv",
+    "departure_date": "2025-08-24",
+    "departure_time": "06:35",
+    "arrival_date": "2025-08-24",
+    "arrival_time": "21:30",
+    "carrier": "S7",
+    "stops": 2,
+    "price": 111579
+  }, {
+    "origin": "VVO",
+    "origin_name": "Vladivostok",
+    "destination": "TLV",
+    "destination_name": "Tel Aviv",
+    "departure_date": "2025-08-24",
+    "departure_time": "18:25",
+    "arrival_date": "2025-08-26",
+    "arrival_time": "09:20",
+    "carrier": "AER",
+    "stops": 3,
+    "price": 79684
+  }, {
+    "origin": "VVO",
+    "origin_name": "Vladivostok",
+    "destination": "TLV",
+    "destination_name": "Tel Aviv",
+    "departure_date": "2025-08-24",
+    "departure_time": "06:35",
+    "arrival_date": "2025-08-24",
+    "arrival_time": "20:10",
+    "carrier": "S7",
+    "stops": 1,
+    "price": 128860
+  }, {
+    "origin": "VVO",
+    "origin_name": "Vladivostok",
+    "destination": "TLV",
+    "destination_name": "Tel Aviv",
+    "departure_date": "2025-08-24",
+    "departure_time": "20:40",
+    "arrival_date": "2025-08-25",
+    "arrival_time": "11:30",
+    "carrier": "UZ",
+    "stops": 1,
+    "price": 124285
+  }, {
+    "origin": "VVO",
+    "origin_name": "Vladivostok",
+    "destination": "TLV",
+    "destination_name": "Tel Aviv",
+    "departure_date": "2025-08-24",
+    "departure_time": "20:40",
+    "arrival_date": "2025-08-25",
+    "arrival_time": "13:10",
+    "carrier": "UZ",
+    "stops": 2,
+    "price": 140121
+  }, {
+    "origin": "VVO",
+    "origin_name": "Vladivostok",
+    "destination": "TLV",
+    "destination_name": "Tel Aviv",
+    "departure_date": "2025-08-24",
+    "departure_time": "00:15",
+    "arrival_date": "2025-08-25",
+    "arrival_time": "08:35",
+    "carrier": "AER",
+    "stops": 2,
+    "price": 82098
+  }, {
+    "origin": "VVO",
+    "origin_name": "Vladivostok",
+    "destination": "TLV",
+    "destination_name": "Tel Aviv",
+    "departure_date": "2025-08-24",
+    "departure_time": "00:15",
+    "arrival_date": "2025-08-25",
+    "arrival_time": "08:35",
+    "carrier": "AER",
+    "stops": 2,
+    "price": 84615
+  }, {
+    "origin": "VVO",
+    "origin_name": "Vladivostok",
+    "destination": "TLV",
+    "destination_name": "Tel Aviv",
+    "departure_date": "2025-08-24",
+    "departure_time": "18:25",
+    "arrival_date": "2025-08-25",
+    "arrival_time": "20:15",
+    "carrier": "AER",
+    "stops": 1,
+    "price": 85171
+  }, {
+    "origin": "VVO",
+    "origin_name": "Vladivostok",
+    "destination": "TLV",
+    "destination_name": "Tel Aviv",
+    "departure_date": "2025-08-24",
+    "departure_time": "08:10",
+    "arrival_date": "2025-08-26",
+    "arrival_time": "06:55",
+    "carrier": "S7",
+    "stops": 2,
+    "price": 85577
+  }, {
+    "origin": "VVO",
+    "origin_name": "Vladivostok",
+    "destination": "TLV",
+    "destination_name": "Tel Aviv",
+    "departure_date": "2025-08-24",
+    "departure_time": "18:25",
+    "arrival_date": "2025-08-26",
+    "arrival_time": "06:55",
+    "carrier": "AER",
+    "stops": 2,
+    "price": 89019
+  }]
+}
