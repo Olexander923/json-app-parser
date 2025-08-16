@@ -5,6 +5,7 @@ Java 17, Spring
 
 ## Инструкция в запуску
 Перейти в директорию проекта
+
 cd ~/Desktop/project-maven-master/json-app-parser
 
 Собрать проект
