@@ -1,7 +1,7 @@
 # Тестовое задание
 
 ## Стек
-Java 17, Spring
+Java 17, Spring Boot, Maven, Jackson/Gson
 
 ## Инструкция в запуску
 Перейти в директорию проекта
